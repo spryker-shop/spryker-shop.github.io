@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{173:function(e,n,t){"use strict";t.r(n);var c=t(0),o=t.n(c);n.default=function(){return o.a.createElement("section",{className:"section content"},o.a.createElement("h1",null,"Hi folks!"),o.a.createElement("p",null,"Welcome to your new Spryker Styleguide POC."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2c660a8b075094a59826.js.map

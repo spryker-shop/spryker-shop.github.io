@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"b3b4376a-3c12-58ab-9eae-66cda9b2bc10","slug":"components/spryker-shop/catalog-page/molecule/active-filter-multi-select/"}}

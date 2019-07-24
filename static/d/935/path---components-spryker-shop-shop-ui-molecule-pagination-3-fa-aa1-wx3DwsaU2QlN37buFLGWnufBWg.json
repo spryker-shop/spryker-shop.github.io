@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"34c76917-183f-5e71-bbd1-2920f665c03a","slug":"components/spryker-shop/shop-ui/molecule/pagination/"}}

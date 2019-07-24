@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"693b219d-becc-59c8-9c7b-3fbd7ec63454","slug":"components/spryker-shop/product-search-widget/molecule/product-quick-add-fields/"}}

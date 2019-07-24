@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"6af0ff0d-7684-508e-84de-697d5c6cf520","slug":"components/spryker-shop/wishlist-widget/molecule/wishlist-selector/"}}

@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"80c966dc-9ec3-5757-847d-f18dcf17875e","slug":"components/spryker-shop/product-packaging-unit-widget/molecule/summary-product-packaging-unit/"}}

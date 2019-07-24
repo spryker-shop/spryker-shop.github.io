@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"df4c23ba-bdb0-5f4b-a5bd-ddf6c8a54cd5","slug":"components/spryker-shop/catalog-page/molecule/active-filter-enumeration/"}}

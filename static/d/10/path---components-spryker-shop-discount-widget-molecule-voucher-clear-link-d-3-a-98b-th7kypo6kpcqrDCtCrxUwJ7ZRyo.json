@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"2920669a-1a41-5cc4-a7a9-332508bd4986","slug":"components/spryker-shop/discount-widget/molecule/voucher-clear-link/"}}

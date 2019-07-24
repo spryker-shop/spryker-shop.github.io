@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"2f6e144c-7d8d-552d-9f97-54676d897260","slug":"components/spryker-shop/cart-code-widget/molecule/cart-code-clear-link/"}}

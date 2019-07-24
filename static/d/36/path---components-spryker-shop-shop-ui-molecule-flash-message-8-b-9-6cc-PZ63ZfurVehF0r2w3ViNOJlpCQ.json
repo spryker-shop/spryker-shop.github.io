@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"cf633a10-c0ea-5f87-8e6c-05767849913f","slug":"components/spryker-shop/shop-ui/molecule/flash-message/"}}

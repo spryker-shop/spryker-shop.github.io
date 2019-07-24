@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"b42a47ef-243f-5767-974c-e4d75f41303f","slug":"components/spryker-shop/shop-ui/molecule/ajax-loader/"}}

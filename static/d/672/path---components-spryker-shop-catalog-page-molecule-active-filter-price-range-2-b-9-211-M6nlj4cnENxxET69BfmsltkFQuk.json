@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"4aca237c-8b67-5382-831f-38beb653f99d","slug":"components/spryker-shop/catalog-page/molecule/active-filter-price-range/"}}

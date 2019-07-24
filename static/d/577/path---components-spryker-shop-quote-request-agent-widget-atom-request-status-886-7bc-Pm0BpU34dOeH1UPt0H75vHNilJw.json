@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"f8f00235-3a32-5266-8793-bb3723e8fdc1","slug":"components/spryker-shop/quote-request-agent-widget/atom/request-status/"}}

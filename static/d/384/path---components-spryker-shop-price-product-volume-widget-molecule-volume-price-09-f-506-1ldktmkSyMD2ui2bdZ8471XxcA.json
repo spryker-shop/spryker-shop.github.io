@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"053c25d3-ffec-548d-8aeb-8fa3ae282f2e","slug":"components/spryker-shop/price-product-volume-widget/molecule/volume-price/"}}

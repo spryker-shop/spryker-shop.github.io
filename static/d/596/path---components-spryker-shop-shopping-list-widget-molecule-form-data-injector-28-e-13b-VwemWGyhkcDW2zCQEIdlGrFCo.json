@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"a84ab5d3-6826-5f26-932e-bfbf928d6041","slug":"components/spryker-shop/shopping-list-widget/molecule/form-data-injector/"}}

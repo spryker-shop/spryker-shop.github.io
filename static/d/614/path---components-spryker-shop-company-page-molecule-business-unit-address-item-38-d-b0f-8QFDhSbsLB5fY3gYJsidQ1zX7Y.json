@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"e363d048-e4e3-52e9-8d43-9cde7a314b71","slug":"components/spryker-shop/company-page/molecule/business-unit-address-item/"}}

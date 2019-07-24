@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"0a320867-29d6-5627-8bb1-699347f6e8f8","slug":"components/spryker-shop/catalog-page/molecule/suggestion-links-list/"}}

@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"9557ab26-b99e-5fb4-9ca0-f39b6b9c018b","slug":"components/spryker-shop/customer-page/molecule/address-form-toggler/"}}

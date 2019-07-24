@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"2c6c0975-4eb8-57da-9c82-66cdf852db4f","slug":"components/spryker-shop/shop-ui/molecule/autocomplete-form/"}}

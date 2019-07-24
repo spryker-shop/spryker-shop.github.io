@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"6e37e612-a1f5-5d0e-bba5-dc7f3ddbdb50","slug":"components/spryker-shop/company-user-invitation-page/molecule/invitation-table/"}}

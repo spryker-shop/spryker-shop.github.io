@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"a1c1bc9b-8fa3-50c7-9db3-a1f115e16ebf","slug":"components/spryker-shop/shop-ui/molecule/action-single-click-enforcer/"}}

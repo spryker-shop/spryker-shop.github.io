@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{160:function(e,n,t){"use strict";t.r(n);var c=t(0),i=t.n(c);n.default=function(){return i.a.createElement("section",{className:"section content"},i.a.createElement("h1",null,"Spryker Atomic Frontend Living Styleguide"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-f31f2864cddfefc7970f.js.map

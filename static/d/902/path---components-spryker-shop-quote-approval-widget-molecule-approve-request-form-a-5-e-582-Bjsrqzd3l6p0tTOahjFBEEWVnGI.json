@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"92e32ff1-08bc-50bb-86d1-0159cf8286e8","slug":"components/spryker-shop/quote-approval-widget/molecule/approve-request-form/"}}

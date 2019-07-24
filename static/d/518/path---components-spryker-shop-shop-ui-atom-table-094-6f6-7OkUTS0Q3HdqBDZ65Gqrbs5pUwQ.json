@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"017fe208-d352-5977-b2f9-43026f662ab0","slug":"components/spryker-shop/shop-ui/atom/table/"}}

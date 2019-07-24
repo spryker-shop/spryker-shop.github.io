@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"89141c61-73de-54d9-bbd2-37a1379a3b03","slug":"components/spryker-shop/company-page/molecule/business-unit-table/"}}

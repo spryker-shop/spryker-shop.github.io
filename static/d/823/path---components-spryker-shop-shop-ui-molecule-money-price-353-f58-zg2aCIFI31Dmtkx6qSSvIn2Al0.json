@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"455f564d-c179-5a85-9107-eeb66ae1f21d","slug":"components/spryker-shop/shop-ui/molecule/money-price/"}}

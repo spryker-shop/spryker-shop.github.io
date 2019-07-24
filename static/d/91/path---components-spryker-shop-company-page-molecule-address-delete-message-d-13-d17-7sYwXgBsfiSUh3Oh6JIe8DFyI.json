@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"6d7c7fa3-c525-5d07-80db-ffd12c5ebb28","slug":"components/spryker-shop/company-page/molecule/address-delete-message/"}}

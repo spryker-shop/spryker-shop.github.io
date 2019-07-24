@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"e29e17bd-a715-5dd8-bf6d-5e48eb112981","slug":"components/spryker-shop/company-page/molecule/role-table/"}}

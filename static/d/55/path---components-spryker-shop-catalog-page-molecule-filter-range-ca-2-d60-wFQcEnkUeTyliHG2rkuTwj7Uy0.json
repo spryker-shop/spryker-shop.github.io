@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"d4ec8bc9-65c2-5a3f-8565-2470b0130bbf","slug":"components/spryker-shop/catalog-page/molecule/filter-range/"}}

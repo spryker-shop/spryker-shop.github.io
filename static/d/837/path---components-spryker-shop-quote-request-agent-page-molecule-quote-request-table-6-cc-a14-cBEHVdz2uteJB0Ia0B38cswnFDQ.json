@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"493e4937-24eb-5527-82e5-2dc53f7f361e","slug":"components/spryker-shop/quote-request-agent-page/molecule/quote-request-table/"}}

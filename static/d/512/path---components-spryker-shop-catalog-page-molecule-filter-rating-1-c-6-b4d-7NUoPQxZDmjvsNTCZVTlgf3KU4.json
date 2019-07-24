@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"f3403652-d3b3-5985-a2e7-b95d3b78b0a9","slug":"components/spryker-shop/catalog-page/molecule/filter-rating/"}}

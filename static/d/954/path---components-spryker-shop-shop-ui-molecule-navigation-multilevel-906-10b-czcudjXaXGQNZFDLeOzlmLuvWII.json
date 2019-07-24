@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"15ee724b-5e8c-56b2-b875-7a0b0b40e46e","slug":"components/spryker-shop/shop-ui/molecule/navigation-multilevel/"}}

@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"f41223a9-2faa-53dc-8c34-46fdcaf5d4d7","slug":"components/spryker-shop/shop-ui/molecule/form-clear/"}}

@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"allSprykerNavigation\" on type \"Query\". Did you mean \"allSprykerStyleFile\", \"allSprykerApplicationFile\", or \"allSprykerComponent\"?","locations":[{"line":11,"column":3}]}]}

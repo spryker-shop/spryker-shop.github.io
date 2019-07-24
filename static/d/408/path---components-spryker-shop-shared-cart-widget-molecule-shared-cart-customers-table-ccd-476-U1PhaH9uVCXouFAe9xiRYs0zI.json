@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"25adc5f7-55e6-5990-832c-97260e7ca93d","slug":"components/spryker-shop/shared-cart-widget/molecule/shared-cart-customers-table/"}}

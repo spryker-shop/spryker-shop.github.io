@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"f6132109-b9aa-5820-928e-b2ca946a1091","slug":"components/spryker-shop/sales-order-threshold-widget/molecule/sales-order-threshold-expense/"}}

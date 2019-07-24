@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"08685bd0-b4d8-54a8-b054-515e7908a232","slug":"components/spryker-shop/shop-ui/molecule/tooltip-message/"}}

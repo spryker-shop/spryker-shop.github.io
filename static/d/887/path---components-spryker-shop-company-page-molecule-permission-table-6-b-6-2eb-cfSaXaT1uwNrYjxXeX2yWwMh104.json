@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"ca4d92ac-dab1-5554-8ead-14ca4f85351b","slug":"components/spryker-shop/company-page/molecule/permission-table/"}}

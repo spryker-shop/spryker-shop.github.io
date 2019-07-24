@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"c047bfdb-3fd1-5a60-bc99-b76719091327","slug":"components/spryker-shop/shopping-list-widget/molecule/subtotal-price/"}}

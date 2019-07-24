@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"180b4de3-4d48-5bb6-9880-bbe08fb8a3f0","slug":"components/spryker-shop/product-review-widget/molecule/review-distribution-display/"}}

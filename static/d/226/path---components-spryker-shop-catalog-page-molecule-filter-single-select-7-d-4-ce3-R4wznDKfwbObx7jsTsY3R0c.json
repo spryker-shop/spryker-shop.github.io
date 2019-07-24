@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"4a2da8cb-edcf-5991-96e2-be0ca0fa8772","slug":"components/spryker-shop/catalog-page/molecule/filter-single-select/"}}

@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"4687f9e7-7a7a-525a-b4e0-8b0592ffe051","slug":"components/spryker-shop/quick-order-page/molecule/quick-order-row-partial/"}}

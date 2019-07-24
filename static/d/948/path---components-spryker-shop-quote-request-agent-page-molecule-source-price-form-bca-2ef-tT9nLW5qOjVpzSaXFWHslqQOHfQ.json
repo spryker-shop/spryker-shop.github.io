@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"functions\" on type \"SprykerComponentFilesSassApiExternal\".","locations":[{"line":57,"column":13}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"id":"83623b7e-fb9b-5514-92a6-1aba3ba1aca7","slug":"components/spryker-shop/quote-request-agent-page/molecule/source-price-form/"}}
